@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "905473188373",
+    "firebase_url": "https://quizforstudent-a444b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "quizforstudent-a444b",
+    "storage_bucket": "quizforstudent-a444b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905473188373:android:429633d01f9a43cb2d641c",
+        "android_client_info": {
+          "package_name": "com.example.quizforstudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905473188373-ptug4bthvbtvl9blnqbl4ip109096e6o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9dQfANT0xSD1xy2ZvT0MjW4CTVCDWF8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "905473188373-ptug4bthvbtvl9blnqbl4ip109096e6o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

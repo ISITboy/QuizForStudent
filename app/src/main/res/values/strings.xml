@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">QuizForStudent</string>
+    <string name="Start">Начать</string>
+    <string name="textDesc">Данный тест поможет Вам определиться в выборе специальности</string>
+    <string name="textQuestion">Выберите понравившуюся картинку</string>
+    <string name="bNext">Далее</string>
+    <string name="bDone">Готово</string>
+    <string name="result">Результат:</string>
+    <string name="EconomyText">Экономика и управление</string>
+    <string name="ElectronicEconomyText">Электронная экономика</string>
+    <string name="AccountingText">Бухгалтерский учет, анализ и аудит</string>
+    <string name="ISITText">Информационные системы и технологии</string>
+    <string name="BackMainActivity">Начальное меню</string>
+
+</resources>
